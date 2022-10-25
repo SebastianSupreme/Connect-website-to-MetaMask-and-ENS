@@ -1,5 +1,9 @@
 In this article you will learn to easily implement MetaMask and Ethereum Name Service support into your website.
 This is accomplished using JavaScript and the ethers.js library.
+Please note that this tutorial is only for educational purposes and is not intended to be used commercially, but rather as a quick way to set up a makeshift implementation to test your code.
+The following code is licensed under the MIT license (SPDX-License-Identifier: MIT).
+
+Copyright (c) 2022 Sebastian Köller
 
 ## HTML {#html}
 
