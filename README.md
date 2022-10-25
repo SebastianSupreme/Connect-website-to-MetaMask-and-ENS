@@ -1,14 +1,3 @@
----
-title: "Connect your website to MetaMask and ENS"
-description: "Learn how to fetch the user's account data and possible ENS domain using JavaScript and the ethers.js library and thus making it accessible to your website."
-author: "Sebastian Supreme"
-sidebar: true
-tags: ["metamask", "ens", "ethersjs", "ethers.js", "javascript", "html", "css"]
-skill: intermediate
-published: 2022-09-23
-lang: en
----
-
 In this article you will learn to easily implement MetaMask and Ethereum Name Service support into your website.
 This is accomplished using JavaScript and the ethers.js library.
 
